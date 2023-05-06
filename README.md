@@ -1,16 +1,16 @@
-### Hi there 👋
+#  **Hello there!** 🚀
 
-<!--
-**soyEldvd/soyEldvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Quem sou eu?** 🇧🇷
+Eu sou Deivid Calixto, amante de computação e atualmente trabalhando com automatização de processos na [CGM](https://www.fortaleza.ce.gov.br/institucional/a-secretaria-339), em Fortaleza - Brasil.
 
-Here are some ideas to get you started:
+## **Alguns números, por que não?** 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Quais tecnologias uso?** 🥷💻 
+
+## **Áreas de interesse?** 📚
+* 🔓 Hacking Ético
+* 💚 Cibersegurança
+* 👾 Open source
+* 🤖 Automação
+
+
