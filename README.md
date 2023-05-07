@@ -24,5 +24,5 @@ Eu sou Deivid Calixto, amante de computação e atualmente trabalhando com autom
 </div></br>
 
 ## **Status** 📈
-| <a href="https://github.com/soyEldvd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soyEldvd&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="soyEldvd's github stats" /></a> | <a href="https://github.com/soyEldvd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyEldvd&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/soyEldvd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soyEldvd&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="soyEldvd's github stats" /></a> | <a href="https://github.com/soyEldvd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyEldvd&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
