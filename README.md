@@ -3,13 +3,12 @@
 ![GIF](Quicksort.gif)
 
 ## **About me** 🇧🇷
-Eu sou Deivid Calixto, amante de computação e atualmente trabalhando com automatização de processos na [CGM](https://www.fortaleza.ce.gov.br/institucional/a-secretaria-339), em Fortaleza - Brasil.
+I'm Deivid Calixto, student of computation and currently working as programmer at [CGM](https://www.fortaleza.ce.gov.br/institucional/a-secretaria-339) in  a automation of process, in Fortaleza - Brasil.
 
 ## **Areas of interest** 📚
-* 🔓 Hacking Ético
-* 💚 Cibersegurança
+* 🔓 Ethical Hacking
+* 💚 Cybersecurity
 * 👾 Open source
-* 🤖 Automação
 
 ## **Skills of mine** 🥷💻 
 <div style="display: inline_black"><br>
